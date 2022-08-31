@@ -6,16 +6,16 @@
 
 <h3>Features</h3>
 
--[x] Cadastro de Restaurante no Banco de Dados<br>
--[x] Visualizar todos os Restaurantes do Banco de Dados<br>
--[x] Visualizar um Restaurante em específico<br>
--[x] Atualizar um Restaurante já salvo na Base de Dados<br>
--[x] Deletar um Restaurante da Base de Dados<br>
--[ ] Cadastro de um Produto no Banco de Dados<br>
--[ ] Visualizar todos os produtos do Banco de Dados<br>
--[ ] Visualizar um Produto em específico<br>
--[ ] Atualizar um Produto já salvo na Base de Dados<br>
--[ ] Deletar um Produto da Base de Dados<br>
+- [x] Cadastro de Restaurante no Banco de Dados<br>
+- [x] Visualizar todos os Restaurantes do Banco de Dados<br>
+- [x] Visualizar um Restaurante em específico<br>
+- [x] Atualizar um Restaurante já salvo na Base de Dados<br>
+- [x] Deletar um Restaurante da Base de Dados<br>
+- [ ] Cadastro de um Produto no Banco de Dados<br>
+- [ ] Visualizar todos os produtos do Banco de Dados<br>
+- [ ] Visualizar um Produto em específico<br>
+- [ ] Atualizar um Produto já salvo na Base de Dados<br>
+- [ ] Deletar um Produto da Base de Dados<br>
 
 <h3>Para você fazer:</h3>
 <ol>
@@ -96,10 +96,10 @@
  <br />
  <sub><b>Camila Cavalcante</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="DIO"></a>
 
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
-
 [![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
 [![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
+
+Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
 
 <h3>Contribuindo</h3>
 
