@@ -1,10 +1,10 @@
 <h1>Restaurante API</h1>
 <p>API para expor um CRUD de um dominínio de Restaurante</p>
 
-<h2>Status do Projeto</h2>
+<h3>Status do Projeto</h3>
 <p align="center"> Restaurante API 💻 Em construção... </p>
 
-<h2>Features</h2>
+<h3>Features</h3>
 
 - [x] Cadastro de Restaurante no Banco de Dados<br>
 - [x] Visualizar todos os Restaurantes do Banco de Dados<br>
@@ -17,7 +17,7 @@
 - [ ] Atualizar um Produto já salvo na Base de Dados<br>
 - [ ] Deletar um Produto da Base de Dados<br>
 
-<h2>Para você fazer:</h2>
+<h3>Para você fazer:</h3>
 <ol>
 	<li>Inclir uma query SQL no arquivo data.sql para a persistência de alguns produtos no banco de dados em memória H2</li>
 	<li>Criar a interface ProdutoService para o CRUD de Produtos</li>
@@ -51,8 +51,7 @@
 	<td>7.**</td>
 </tr>
 </table>
-
-<p>No Terminal/Console:</p>
+No Terminal/Console:
 <ol>
 	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/restaurante-api.git</code></li>
 	<li>Entre na pasta raiz do projeto: <code>cd restaurante-api</code></li> 
@@ -60,7 +59,7 @@
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
-<h2>Tecnologias Utilizadas</h2>
+<h3>Tecnologias Utilizadas</h3>
 
 <table>
 <tr>
@@ -89,13 +88,13 @@
 </tr>
 </table>
 
-<h2>Author</h2>
+<h3>Author</h3>
 
 <a href="https://www.linkedin.com/in/cami-la/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Camila Cavalcante</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="DIO"></a>
-<br>
+
 Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
