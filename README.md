@@ -1,6 +1,6 @@
 <h1>Restaurante API</h1>
 <p>API para expor um CRUD de um dominínio de Restaurante</p>
-<p align="center"><a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ <a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a></p>
+<p align="center"><a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ <a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true>Slides dia 4</a></p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> Restaurante API 💻 Em construção... </p>
@@ -48,6 +48,10 @@
 <tr>
 	<td>Gradle</td>
 	<td>7.**</td>
+</tr>
+<tr>
+	<td>Postman</td>
+	<td>9.**</td>
 </tr>
 </table>
 <h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **</h6>
