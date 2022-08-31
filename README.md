@@ -6,32 +6,31 @@
 
 <h3>Features</h3>
 
-- [x] Cadastro de Restaurante no Banco de Dados<br>
-- [x] Visualizar todos os Restaurantes do Banco de Dados<br>
-- [x] Visualizar um Restaurante em específico<br>
-- [x] Atualizar um Restaurante já salvo na Base de Dados<br>
-- [x] Deletar um Restaurante da Base de Dados<br>
-- [ ] Cadastro de um Produto no Banco de Dados<br>
-- [ ] Visualizar todos os produtos do Banco de Dados<br>
-- [ ] Visualizar um Produto em específico<br>
-- [ ] Atualizar um Produto já salvo na Base de Dados<br>
-- [ ] Deletar um Produto da Base de Dados<br>
+- [x] Cadastrar restaurantes no banco de dados<br>
+- [x] Visualizar todos os restaurantes do banco de dados<br>
+- [x] Visualizar um restaurante específico já salvo no banco de dados<br>
+- [x] Atualizar um restaurante já salvo no banco de dados<br>
+- [x] Deletar um restaurante já salvo no banco de dados<br>
+- [ ] Cadastrar produtos no banco de dados<br>
+- [ ] Visualizar todos os produtos do banco de dados<br>
+- [ ] Visualizar um produto específico já salvo no banco de dados<br>
+- [ ] Atualizar um produto já salvo no banco de dados<br>
+- [ ] Deletar um produto já salvo no banco de dados<br>
 
 <h3>Para você fazer:</h3>
 <ol>
-	<li>Inclir uma query SQL no arquivo data.sql para a persistência de alguns produtos no banco de dados em memória H2</li>
-	<li>Criar a interface ProdutoService para o CRUD de Produtos</li>
-	<li>Criar a classe RestauranteServiceImpl para implementar a interface criada no tópico anterior</li>
-	<li>Criar a classe DTO ProdutoDto</li>
-	<li>Criar a classe ProdutoResource com as anotação do Swagger</li>
-	<li>Criar a interface ProdutoRepository</li>
-	<li>Implementar os métodos da classe de servico ProdutoServiceImpl</li>
+	<li>Incluir uma query SQL no arquivo <strong>data.sql</strong> para a persistência de alguns produtos no banco de dados em memória H2</li>
+	<li>Criar a interface <code>ProdutoService</code> para o <strong>CRUD</strong> de Produtos</li>
+	<li>Criar a classe <code>RestauranteServiceImpl</code> para implementar a interface criada no tópico anterior</li>
+	<li>Criar a classe DTO <code>ProdutoDto</code></li>
+	<li>Criar a classe <code>ProdutoResource</code> com as anotação do Swagger</li>
+	<li>Criar a interface <code>ProdutoRepository</code></li>
+	<li>Implementar os métodos da classe de servico <code>ProdutoServiceImpl</code></li>
 	<li>Testar no Swagger UI</li>
 </ol>
 
 <h3>Demostração da Aplicação</h3>
 <p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
-
 <table>
 <tr>
 	<th>Ferramenta</th>
@@ -50,7 +49,6 @@
 	<td>7.**</td>
 </tr>
 </table>
-
 <h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **</h6>
 
 No Terminal/Console:
@@ -105,7 +103,7 @@ Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
 <h3>Contribuindo</h3>
 
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
 
 Se possível:
 
