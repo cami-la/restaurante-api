@@ -1,7 +1,7 @@
 package me.dio.devweek.potenciatech.restaurante.services;
 
 import me.dio.devweek.potenciatech.restaurante.entities.Restaurante;
-import me.dio.devweek.potenciatech.restaurante.entities.RestauranteDto;
+import me.dio.devweek.potenciatech.restaurante.resources.dto.RestauranteDto;
 
 import java.util.List;
 

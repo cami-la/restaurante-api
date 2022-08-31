@@ -1,4 +1,4 @@
-package me.dio.devweek.potenciatech.restaurante.entities;
+package me.dio.devweek.potenciatech.restaurante.resources.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

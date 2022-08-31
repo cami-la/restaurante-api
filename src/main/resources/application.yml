@@ -16,3 +16,6 @@ spring:
     show-sql: true
     defer-datasource-initialization: true
     database-platform: org.hibernate.dialect.H2Dialect
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher

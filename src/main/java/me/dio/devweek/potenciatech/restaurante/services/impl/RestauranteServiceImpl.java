@@ -3,7 +3,7 @@ package me.dio.devweek.potenciatech.restaurante.services.impl;
 import lombok.RequiredArgsConstructor;
 import me.dio.devweek.potenciatech.restaurante.entities.Endereco;
 import me.dio.devweek.potenciatech.restaurante.entities.Restaurante;
-import me.dio.devweek.potenciatech.restaurante.entities.RestauranteDto;
+import me.dio.devweek.potenciatech.restaurante.resources.dto.RestauranteDto;
 import me.dio.devweek.potenciatech.restaurante.repositories.RestauranteRepository;
 import me.dio.devweek.potenciatech.restaurante.services.RestauranteService;
 import org.springframework.stereotype.Service;

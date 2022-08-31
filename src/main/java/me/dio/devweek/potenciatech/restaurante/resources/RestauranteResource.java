@@ -1,13 +1,16 @@
 package me.dio.devweek.potenciatech.restaurante.resources;
 
+import io.swagger.annotations.Api;
 import lombok.RequiredArgsConstructor;
 import me.dio.devweek.potenciatech.restaurante.entities.Restaurante;
-import me.dio.devweek.potenciatech.restaurante.entities.RestauranteDto;
+import me.dio.devweek.potenciatech.restaurante.resources.dto.RestauranteDto;
 import me.dio.devweek.potenciatech.restaurante.services.impl.RestauranteServiceImpl;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+
+@Api(value = "/api/v1/restaurantes", tags = {"Serviço para cadastro de restaurantes"})
 @RestController
 @RequestMapping("/api/v1/restaurantes")
 @RequiredArgsConstructor
