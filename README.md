@@ -23,10 +23,10 @@
 	<li>Criar a interface <code>ProdutoService</code> para o <strong>CRUD</strong> de Produtos</li>
 	<li>Criar a classe <code>RestauranteServiceImpl</code> para implementar a interface criada no tópico anterior</li>
 	<li>Criar a classe DTO <code>ProdutoDto</code></li>
-	<li>Criar a classe <code>ProdutoResource</code> com as anotação do Swagger</li>
+	<li>Criar a classe <code>ProdutoResource</code> com as anotação do <strong>Swagger</strong></li>
 	<li>Criar a interface <code>ProdutoRepository</code></li>
 	<li>Implementar os métodos da classe de servico <code>ProdutoServiceImpl</code></li>
-	<li>Testar no Swagger UI</li>
+	<li>Testar no <strong>Swagger UI</strong></li>
 </ol>
 
 <h3>Demostração da Aplicação</h3>
