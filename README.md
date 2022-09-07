@@ -72,6 +72,10 @@ No Terminal/Console:
 	<th>Versão</th>
 </tr>
 <tr>
+	<td>spring initialzr</td>
+	<td><a href="https://start.spring.io/">https://start.spring.io/</a></td>
+</tr>
+<tr>
 	<td>spring-boot-starter-web</td>
 	<td>2.7.3</td>
 </tr>
