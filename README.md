@@ -67,7 +67,7 @@ No Terminal/Console:
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
-<img src="https://i.imgur.com/pfubmkj.png" alt="Restaurante API Swagger UI" width="600" height="400">
+<img src="https://i.imgur.com/pfubmkj.png" alt="Restaurante API Swagger UI">
 
 <h3>Tecnologias Utilizadas</h3>
 
