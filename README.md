@@ -5,6 +5,11 @@
 <a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a>
 </p>
 
+<h2 align="center"> ‼️
+<a href="https://www.dio.me/dev-week/ifood/ifood-developer">ASSISTA A DEV WEEK</a>
+‼️
+</h2>
+
 <h3>Status do Projeto</h3>
 <p align="center"> Restaurante API 💻 Em construção... </p>
 
